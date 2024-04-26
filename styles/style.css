@@ -1,0 +1,25 @@
+@media(max-width:768px) {
+    .footer-b{
+        height: 780px;
+    }
+    .footer-t-b .mt-3{
+        /* background-color: red; */
+        justify-content: center;
+        text-align: center;
+    }
+
+    .footer-b{
+        margin: 0 auto;
+    }
+    .t-t{
+        margin-left: 20px;
+        margin-top: 10px;
+    }
+
+}
+@media(min-width:769px)  {
+    .footer-b{
+        height: 480px;
+    }
+}
+
